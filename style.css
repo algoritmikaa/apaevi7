@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+    margin: 0px;
+}
+
+nav a {
+    margin: 50px;
+    color: black;
+}
+
+h1 {
+    text-align: center;
+}
+
+.a {
+    margin: 10px;
+    border-left: 9px dotted black;
+}
+
+.b {
+    border: 1px solid black;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+footer p {
+    background-color: black;
+    color: white;
+}
